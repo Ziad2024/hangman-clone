@@ -3,7 +3,7 @@ This is a React and Redux-based implementation of the classic Hangman game. The 
 
 ## Demo
 
-Check out the live demo [here]().
+Check out the live demo [here](https://hangman-clone-egex1ajwg-ziad38107-gmailcoms-projects.vercel.app/).
 
 ## Screenshots
 
@@ -12,18 +12,18 @@ Check out the live demo [here]().
 
 ## Features Implemented
 
- **Random Word Selection**: 
-   - Randomly selects a word from a predefined list for each new game.
- **Keyboard Input**:
-  - Players can guess letters using an on-screen keyboard.
- **Incorrect Guess Tracking**:
-  - Tracks incorrect guesses and updates the hangman image.
- **Game Over and Victory Screens**:
-  - Displays appropriate messages when the game is won or lost.
- **Redux State Management**:
-  - Manages game state using Redux.
- **Tailwind CSS**:
-  - Styles the application with Tailwind CSS.
+**Random Word Selection**: 
+ - Randomly selects a word from a predefined list for each new game.
+**Keyboard Input**:
+ - Players can guess letters using an on-screen keyboard.
+**Incorrect Guess Tracking**:
+ - Tracks incorrect guesses and updates the hangman image.
+**Game Over and Victory Screens**:
+ - Displays appropriate messages when the game is won or lost.
+**Redux State Management**:
+ - Manages game state using Redux.
+**Tailwind CSS**:
+ - Styles the application with Tailwind CSS.
 
 ## How to Run
 
