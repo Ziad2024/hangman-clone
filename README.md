@@ -12,18 +12,18 @@ Check out the live demo [here](https://hangman-clone-egex1ajwg-ziad38107-gmailco
 
 ## Features Implemented
 
- **Random Word Selection**: 
-  - Randomly selects a word from a predefined list for each new game.
- **Keyboard Input**:
-  - Players can guess letters using an on-screen keyboard.
- **Incorrect Guess Tracking**:
-  - Tracks incorrect guesses and updates the hangman image.
- **Game Over and Victory Screens**:
-  - Displays appropriate messages when the game is won or lost.
- **Redux State Management**:
-  - Manages game state using Redux.
- **Tailwind CSS**:
-  - Styles the application with Tailwind CSS.
+1. **Random Word Selection**: 
+   - Randomly selects a word from a predefined list for each new game.
+2. **Keyboard Input**:
+   - Players can guess letters using an on-screen keyboard.
+3. **Incorrect Guess Tracking**:
+   - Tracks incorrect guesses and updates the hangman image.
+4. **Game Over and Victory Screens**:
+   - Displays appropriate messages when the game is won or lost.
+5. **Redux State Management**:
+   - Manages game state using Redux.
+6. **Tailwind CSS**:
+   - Styles the application with Tailwind CSS.
 
 ## How to Run
 
